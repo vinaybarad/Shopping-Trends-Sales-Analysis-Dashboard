@@ -2,9 +2,10 @@
 
 Developed an interactive Shopping Trends Sales Analysis Dashboard to analyze customer purchasing behavior, sales performance, and product trends using advanced Excel and data analytics techniques. The project involved data cleaning, transformation, and dashboard development to generate meaningful business insights and improve decision-making.
 
-Key Highlights :
+**Key Highlights :**
 
 ->Created dynamic dashboards using Pivot Tables, Pivot Charts, Slicers, and KPI Cards
+
 ->Performed sales trend analysis by product category, region, customer segment, and time period
 ->Used advanced Excel functions such as VLOOKUP, XLOOKUP, INDEX-MATCH, IF, COUNTIF, SUMIF, SUMIFS, IFERROR, TEXT, and Conditional Formatting
 ->Applied data cleaning and preprocessing techniques for accurate reporting
@@ -13,7 +14,7 @@ Key Highlights :
 ->Generated insights on top-selling products, revenue contribution, customer behavior, and seasonal sales patterns
 ->Improved data organization and reporting accuracy using structured datasets and analytical methods
 
-Tools & Technologies :
+**Tools & Technologies :**
 ->Microsoft Excel
 ->Pivot Tables & Pivot Charts
 ->Dashboard Development

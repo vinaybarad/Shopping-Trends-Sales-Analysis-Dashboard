@@ -1,4 +1,4 @@
-Shopping Trends Sales Analysis Dashboard
+**Shopping Trends Sales Analysis Dashboard**
 
 Developed an interactive Shopping Trends Sales Analysis Dashboard to analyze customer purchasing behavior, sales performance, and product trends using advanced Excel and data analytics techniques. The project involved data cleaning, transformation, and dashboard development to generate meaningful business insights and improve decision-making.
 

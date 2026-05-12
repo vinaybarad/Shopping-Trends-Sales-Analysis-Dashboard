@@ -12,9 +12,9 @@ Customer purchasing behavior insights
 Profit, revenue, and order quantity analysis
 KPI cards for Total Sales, Profit, Orders, and Average Sales
 Data-driven visualizations for business intelligence reporting
+
 Tools & Technologies Used :
-Excel
-SQL for data querying and transformation
+Excel ,SQL for data querying and transformation
 Power Query for data preprocessing and analysis
 Calculations / Power Query for calculated measures and data modeling
 Insights Generated :

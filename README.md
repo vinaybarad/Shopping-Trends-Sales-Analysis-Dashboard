@@ -5,7 +5,6 @@ Developed an interactive Shopping Trends Sales Analysis Dashboard to analyze cus
 **Key Highlights :**
 
 ->Created dynamic dashboards using Pivot Tables, Pivot Charts, Slicers, and KPI Cards
-
 ->Performed sales trend analysis by product category, region, customer segment, and time period
 ->Used advanced Excel functions such as VLOOKUP, XLOOKUP, INDEX-MATCH, IF, COUNTIF, SUMIF, SUMIFS, IFERROR, TEXT, and Conditional Formatting
 ->Applied data cleaning and preprocessing techniques for accurate reporting

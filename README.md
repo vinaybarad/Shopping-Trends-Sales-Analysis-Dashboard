@@ -34,7 +34,7 @@ Developed an interactive Shopping Trends Sales Analysis Dashboard to analyze cus
 
 ->Data Analysis & Reporting
 
-**Project Objective**
+**Project Objective:**
 
 The objective of this project was to transform raw retail shopping data into an interactive analytical dashboard that helps track sales KPIs, customer trends, and business performance through data-driven reporting and visualization techniques.
 

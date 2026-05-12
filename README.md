@@ -17,6 +17,7 @@ Tools & Technologies Used :
 Excel ,SQL for data querying and transformation
 Power Query for data preprocessing and analysis
 Calculations / Power Query for calculated measures and data modeling
+
 Insights Generated :
 Identified peak sales periods and seasonal shopping trends
 Analyzed customer preferences across product categories

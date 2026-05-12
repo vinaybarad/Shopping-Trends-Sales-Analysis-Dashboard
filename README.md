@@ -3,6 +3,7 @@ Shopping Trends Sales Analysis Dashboard
 A dynamic and interactive Sales Analysis Dashboard built to analyze shopping trends, customer behavior, and business performance using data visualization techniques. This project helps businesses track key sales metrics, identify high-performing categories, and gain actionable insights for better decision-making.
 
 Key Features :
+
 Interactive dashboard with filters and slicers
 Sales performance analysis by category, region, and customer segment
 Monthly and yearly sales trend tracking

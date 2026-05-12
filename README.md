@@ -13,10 +13,10 @@ Profit, revenue, and order quantity analysis
 KPI cards for Total Sales, Profit, Orders, and Average Sales
 Data-driven visualizations for business intelligence reporting
 Tools & Technologies Used :
-Power BI / Tableau / Excel (choose your tool)
+Excel
 SQL for data querying and transformation
-Python (Pandas, NumPy, Matplotlib) for data preprocessing and analysis
-DAX / Power Query for calculated measures and data modeling
+Power Query for data preprocessing and analysis
+Calculations / Power Query for calculated measures and data modeling
 Insights Generated :
 Identified peak sales periods and seasonal shopping trends
 Analyzed customer preferences across product categories

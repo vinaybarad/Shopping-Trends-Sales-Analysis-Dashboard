@@ -27,5 +27,5 @@ Project Objective :
 
 The objective of this project is to transform raw shopping sales data into meaningful business insights through interactive visualizations and analytical reporting. The dashboard supports decision-making by helping stakeholders monitor sales performance, customer trends, and operational efficiency.
 
-https://github.com/vinaybarad/Shopping-Trends-Sales-Analysis-Dashboard/blob/8f67cf09af1ca501950d720f13ab3c07452eb139/Screenshot%202026-04-06%20084206.png
-
+![Image Alt](https://github.com/vinaybarad/Shopping-Trends-Sales-Analysis-Dashboard/blob/8f67cf09af1ca501950d720f13ab3c07452eb139/Screenshot%202026-04-06%20084206.png
+)
